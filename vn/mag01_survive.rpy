@@ -26,6 +26,12 @@ label attaque_mag_win:
     oz "Maintenant va te coucher, il est tard et la journée à été longue, dors et réfléchis à ce que je viens de te dire."
     a "Merci je vais y réflechir. Bonne nuit Oz."
     scene maison with fade
-    a "je suis épuiser et mes musccles me font souffrir, elle a raison je ferais mieux de me reposer."
-    jump jour_3
+    $etirement = False
+    menu:
+        "je suis épuiser et mes musccles me font souffrir, elle a raison je ferais mieux de me reposer.":
+            jump jour_3
+        "je devrais m'étirer un peu même si je dormirais un peu moins":
+            $etirement = True
+            jump jour_3
+
 
