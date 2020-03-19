@@ -6,4 +6,8 @@
 https://fr.wikipedia.org/wiki/Cookie_(informatique)
 
 
-19/03/20 10H20_10H35 : chercher des images sur pixabay
+19/03/20 10H20-10H35 : chercher des images sur pixabay
+"""""""" 13H45-15H : me renseigner sur le foctionnement de patreon comme moyen de financement
+https://support.patreon.com/hc/en-us
+https://support.patreon.com/hc/en-us/articles/204606215-Can-I-make-a-one-time-payment-
+https://fr.wikipedia.org/wiki/Patreon#Mod%C3%A8le_d'affaires
