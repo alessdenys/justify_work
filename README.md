@@ -11,3 +11,10 @@ https://fr.wikipedia.org/wiki/Cookie_(informatique)
 https://support.patreon.com/hc/en-us
 https://support.patreon.com/hc/en-us/articles/204606215-Can-I-make-a-one-time-payment-
 https://fr.wikipedia.org/wiki/Patreon#Mod%C3%A8le_d'affaires
+
+20/03/20 10H45-12H30 : me renseigner sur les différents moyens et sites pour mettre en ligne gratuitement mon jeu 
+https://make.gamefroot.com/
+https://help.gamesalad.com/gamesalad-cookbook/publishing/google-play-publishing/
+https://www.gamasutra.com/blogs/JonahSanville/20160520/273124/The_5_Best_Free_Places_to_Publish_Your_Game.php
+https://forum.unity.com/threads/where-to-publish-your-game-for-free.329482/
+https://www.kongregate.com/session/new
