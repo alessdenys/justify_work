@@ -18,3 +18,6 @@ https://help.gamesalad.com/gamesalad-cookbook/publishing/google-play-publishing/
 https://www.gamasutra.com/blogs/JonahSanville/20160520/273124/The_5_Best_Free_Places_to_Publish_Your_Game.php
 https://forum.unity.com/threads/where-to-publish-your-game-for-free.329482/
 https://www.kongregate.com/session/new
+
+20/03/20 14H-14H40 : recherche d'images pixabay
+https://pixabay.com/fr/
